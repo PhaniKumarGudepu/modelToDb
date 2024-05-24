@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "modeltodb"
+version = "0.0.1"
+description = "An integration of pydantic models with Nosql DB operations"
+authors = ["Phani Kumar Gudepu"]
+license = "MIT License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
