@@ -16,4 +16,4 @@ Requirements
                 - Sort
                 - Group
                 - Count
-
+    - Dynamic datatype handling from python 'types' to database 'types'
